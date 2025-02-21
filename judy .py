@@ -1,3 +1,5 @@
+//JUDITH ANYANGO OYOO
+//EB3/61531/22
 import time
 
 def factorial(n):
